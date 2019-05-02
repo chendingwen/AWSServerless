@@ -34,7 +34,7 @@ In order to complete this immersion day lab, please follow the preparation steps
 
 ### If you *do not* have Administrator rights on your account
 
-Work with an administrator in your account and complete requirements in the Lab Prep document.
+Work with an administrator in your account and complete requirements in the Appendix A.1 section of the [Lab Prep document](./Serverless%20Data%20Lake%20Day%20Lab-PREP.docx).
  
 ## Expected Costs
 
