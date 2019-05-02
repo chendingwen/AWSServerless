@@ -6,7 +6,7 @@ This lab guide is prepared to assist you ingest, store, transform, create insigh
 
 In order to complete this immersion day lab, please follow the preparation steps:
 
-### You have Administrator rights on your account
+### If you have Administrator rights on your account
 
 #### 1. Install Kinesis Data Generator (KDG) tool
 
@@ -32,7 +32,7 @@ In order to complete this immersion day lab, please follow the preparation steps
 
   ![Upload template](../images/rolesStackName.png)
 
-### You *do not* have Administrator rights on your account
+### If you *do not* have Administrator rights on your account
 
 Work with an administrator in your account and complete requirements in the Lab Prep document.
  
